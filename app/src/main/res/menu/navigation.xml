@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bp"
+        android:icon="@drawable/ic_show_chart"
+        android:title="BP" />
+
+    <item
+        android:id="@+id/navigation_hr"
+        android:icon="@drawable/ic_timeline"
+        android:title="HR" />
+
+    <item
+        android:id="@+id/navigation_breathing"
+        android:icon="@drawable/ic_chart"
+        android:title="Breathing" />
+
+    <item
+        android:id="@+id/navigation_enter"
+        android:icon="@drawable/ic_account"
+        android:title="Enter Data" />
+
+</menu>
